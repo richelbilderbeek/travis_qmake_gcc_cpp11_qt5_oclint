@@ -15,7 +15,7 @@ my_dialog::my_dialog(QWidget *parent) :
     this,
     &my_dialog::close
   );
-  timer->setInterval(1'000); //C++14 supports digit seperators
+  timer->setInterval(1000);
   timer->start();
 }
 
