@@ -8,7 +8,7 @@ SOURCES += main.cpp
 SOURCES += my_dialog.cpp
 FORMS   += my_dialog.ui
 HEADERS += my_dialog.h
-RESOURCES += travis_qmake_gcc_cpp14_qt5_oclint.qrc
+RESOURCES += travis_qmake_gcc_cpp11_qt5_oclint.qrc
 
 # C++14
 CONFIG += c++14

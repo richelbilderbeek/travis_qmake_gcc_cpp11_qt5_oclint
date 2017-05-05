@@ -1,5 +1,12 @@
 #include <QApplication>
+#include <iostream>
 #include "my_dialog.h"
+
+// C++11
+void f() noexcept 
+{
+  std::cout << "Hello world\n";
+}
 
 int main(int argc, char *argv[])
 {

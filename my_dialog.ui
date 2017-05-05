@@ -17,14 +17,14 @@
       <string/>
      </property>
      <property name="pixmap">
-      <pixmap resource="travis_qmake_gcc_cpp14_qt5_oclint.qrc">:/images/TravisCI.png</pixmap>
+      <pixmap resource="travis_qmake_gcc_cpp11_qt5_oclint.qrc">:/images/TravisCI.png</pixmap>
      </property>
     </widget>
    </item>
   </layout>
  </widget>
  <resources>
-  <include location="travis_qmake_gcc_cpp14_qt5_oclint.qrc"/>
+  <include location="travis_qmake_gcc_cpp11_qt5_oclint.qrc"/>
  </resources>
  <connections/>
 </ui>
